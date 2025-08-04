@@ -1,4 +1,9 @@
-## Hi there 👋
+# Andrew Johnson
+
+view past work here:
+
+**Portfolio → <https://astral-matrix.github.io/portfolio/>**
+
 
 <!--
 **astral-matrix/astral-matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,3 @@
-view past work here:
-
 **Portfolio → <https://astral-matrix.github.io/portfolio/>**
 
 
